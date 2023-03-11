@@ -1,0 +1,12 @@
+{
+    "editor.codeActionsOnSave": {
+
+    },
+    "editor.fontLigatures": true,
+    "cSpell.languageSettings": [
+
+    ],
+    "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "normal",
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline"
+}
