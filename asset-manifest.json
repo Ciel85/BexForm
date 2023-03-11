@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BexForm/static/css/main.aa46f6b2.css",
+    "main.js": "/BexForm/static/js/main.ff3479f0.js",
+    "static/js/787.aeb39de0.chunk.js": "/BexForm/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/BexForm/index.html",
+    "main.aa46f6b2.css.map": "/BexForm/static/css/main.aa46f6b2.css.map",
+    "main.ff3479f0.js.map": "/BexForm/static/js/main.ff3479f0.js.map",
+    "787.aeb39de0.chunk.js.map": "/BexForm/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa46f6b2.css",
+    "static/js/main.ff3479f0.js"
+  ]
+}
